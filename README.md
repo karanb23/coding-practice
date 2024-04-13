@@ -1,4 +1,4 @@
 # coding-practice
-This repo is the collection of my code solution for coding problems.
+This repo is the collection of solutions for Algorithmic problems.
 
 Currently solving LeetCode SQL-50
